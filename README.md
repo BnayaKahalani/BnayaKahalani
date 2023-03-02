@@ -5,7 +5,7 @@
 #### I'm looking for a full stack / frontend developer position.
 
 
-- ⌨️ I’m currently working on several React, Vue and vanilla JS projects and learning Angular and python.
+- ⌨️ I’m currently working on several React, Vue and vanilla JS projects and learning Python and SQL.
 - 📫 Reach me on [LinkedIn](www.linkedin.com/in/bnaya-kahalani) or via [email](mailto:bnaya50@gmail.com). 
 - ⚡ Fun facts: I'm a Miami Heat fan, know how to make great Hummus (The secret ingredient is patience) and can play the guitar behind my back.
 
