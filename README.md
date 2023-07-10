@@ -1,4 +1,4 @@
-### Hi there! I'm Bnaya 🙋🏻‍♂️
+### Hi there! I'm Bnaya 
 
 #### I'm a web developer with a passion for programming, technology & design.
 #### After several fruitful, impactful years playing significant roles in the education system (High School English teacher, English coordinator and ICT district instructor, amongst others), I'm taking my talents 🌟, skills 🐱‍💻 and work ethic 💼 to the programming field. 
